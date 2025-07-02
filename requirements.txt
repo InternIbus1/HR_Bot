@@ -12,3 +12,4 @@ llama-index-core
 python-dotenv
 PyMuPDF
 python-docx
+python-pptx
