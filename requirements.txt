@@ -1,0 +1,28 @@
+# Core app
+streamlit
+google-generativeai
+
+# PDF extraction
+PyPDF2
+
+# Web scraping (for optional real-time info)
+requests
+beautifulsoup4
+html5lib
+
+# Optional: if you're using Google APIs with service accounts
+gspread
+oauth2client
+
+# Optional: fallback PDF parsing (more robust than PyPDF2)
+pdfplumber
+
+# For date handling and formats
+python-dateutil
+
+# Optional (in case you're caching with pickle or llamaindex)
+llama-index-core
+
+# If you're using dotenv for managing secrets
+python-dotenv
+PyMuPDF
