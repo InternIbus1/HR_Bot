@@ -26,3 +26,4 @@ llama-index-core
 # If you're using dotenv for managing secrets
 python-dotenv
 PyMuPDF
+docx
