@@ -1,0 +1,38 @@
+# 🚫 Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+.env
+.venv/
+venv/
+*.db
+
+# 🚫 Streamlit
+.cache/
+.streamlit/secrets.toml
+
+# 🚫 Sensitive credentials (Google, Gemini, etc.)
+credentials.json
+*.key
+*.pem
+
+# 🚫 Document processing
+documents/
+cached_documents/
+
+# 🚫 Uploaded files
+uploads/
+downloads/
+*.pdf
+*.txt
+
+# 🚫 VSCode & IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# 🚫 Mac/Linux/Windows OS files
+.DS_Store
+Thumbs.db
